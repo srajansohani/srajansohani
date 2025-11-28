@@ -14,9 +14,13 @@ I’m a Softwate Engineer working at **Deutsche Bank** and I have done my gradua
 
 ### Graduate Engineer @Deustche Bank
 • Contribute to the Data Management Platform, which tracks enterprise data feeds across the bank
+
 • Design and implement Data Quality (DQ) validation workflows for regulatory and compliance-critical datasets
+
 • Build Angular components for monitoring data health, feed integrity, and quality metrics
+
 • Collaborate with engineering and compliance teams to strengthen enterprise data governance
+
 
 ## 💼 Internship Experience
 
