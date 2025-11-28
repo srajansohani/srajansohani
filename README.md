@@ -2,13 +2,21 @@
 
 ## 🧠 Software Developer | Backend Engineer | Elastic Stack Enthusiast
 
-I’m a Computer Science undergraduate at **SGSITS, Indore (2021–2025)** passionate about backend development, DevOps, and building resilient distributed systems. I’ve worked across real-time infrastructure, microservices, and developer tooling during my internships and projects.
+I’m a Softwate Engineer working at **Deutsche Bank** and I have done my graduation in Computer Science at **SGSITS, Indore (2021–2025)** passionate about backend development, DevOps, and building resilient distributed systems. I’ve worked across real-time infrastructure, microservices, and developer tooling during my internships and projects.
 
 - 🔭 Currently exploring: **Elastic Stack**, **Model Context Protocol (MCP)**, and large-scale system design
 - ⚙️ Passionate about: Developer Experience (DevEx), distributed infra, scalable backend services
 - 📧 Reach me at: [srajansohani999@gmail.com](mailto:srajansohani999@gmail.com)
 
 ---
+
+## Full Time Experience
+
+### Graduate Engineer @Deustche Bank
+• Contribute to the Data Management Platform, which tracks enterprise data feeds across the bank
+• Design and implement Data Quality (DQ) validation workflows for regulatory and compliance-critical datasets
+• Build Angular components for monitoring data health, feed integrity, and quality metrics
+• Collaborate with engineering and compliance teams to strengthen enterprise data governance
 
 ## 💼 Internship Experience
 
