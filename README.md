@@ -62,10 +62,9 @@ I’m a Software Engineer at **Deutsche Bank** and a Computer Science graduate f
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=srajansohani&show_icons=true&theme=radical" alt="Srajan's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srajansohani&layout=compact&theme=radical" alt="Top Languages" />
-</div>
+![Srajan's GitHub stats](https://github-readme-stats.vercel.app/api?username=srajansohani&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srajansohani&layout=compact&theme=radical)
+
 
 ---
 
