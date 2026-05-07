@@ -1,86 +1,80 @@
 # 👋 Hey there! I'm Srajan Sohani
 
-## 🧠 Software Developer | Backend Engineer | Elastic Stack Enthusiast
+## 🧠 Software Engineer | Backend & Distributed Systems | Elastic Stack Enthusiast
 
-I’m a Softwate Engineer working at **Deutsche Bank** and I have done my graduation in Computer Science at **SGSITS, Indore (2021–2025)** passionate about backend development, DevOps, and building resilient distributed systems. I’ve worked across real-time infrastructure, microservices, and developer tooling during my internships and projects.
+I’m a Software Engineer at **Deutsche Bank** and a Computer Science graduate from **SGSITS, Indore (2021–2025)**. I specialize in backend development, distributed systems, and building resilient infrastructure. I've engineered real-time systems, scalable microservices, and AI-powered developer tooling.
 
-- 🔭 Currently exploring: **Elastic Stack**, **Model Context Protocol (MCP)**, and large-scale system design
-- ⚙️ Passionate about: Developer Experience (DevEx), distributed infra, scalable backend services
-- 📧 Reach me at: [srajansohani999@gmail.com](mailto:srajansohani999@gmail.com)
-
----
-
-## Full Time Experience
-
-### Graduate Engineer @Deustche Bank
-• Contribute to the Data Management Platform, which tracks enterprise data feeds across the bank
-
-• Design and implement Data Quality (DQ) validation workflows for regulatory and compliance-critical datasets
-
-• Build Angular components for monitoring data health, feed integrity, and quality metrics
-
-• Collaborate with engineering and compliance teams to strengthen enterprise data governance
-
-
-## 💼 Internship Experience
-
-### 🏢 HyperFlex – SDE Intern (2025)
-- 🛠️ Worked on Elastic Stack tooling and observability infrastructure
-- Developed full-stack **Elastic Upgradation Tool** with Ansible + Webhooks for node-by-node orchestration
-- Created **Splunk to Elasticsearch Migration Tool** to assist clients in capacity planning and alert translation
-
-### 🏦 Deutsche Bank – TDI Intern, Risk Division (2024)
-- Integrated real-time system notifications into **Global Credit Risk System** (GCRS) using WebSockets and Kafka
-- Modeled notifications into DB using a GraphQL-based Nova workflow system
-- Improved alert latency from ~10s (emails) to <1s (real-time UI)
-
-### 🖥️ Consultadd – Software Engineering Intern (2023)
-- Migrated class-based components to functional React components, improving code maintainability
-- Added infinite scroll and Firebase-powered real-time notifications
-- Optimized API usage with debounced search and caching strategies
+- 🔭 **Currently exploring:** Elastic Stack, AI Agents (Model Context Protocol), and Large-Scale System Design
+- ⚙️ **Passionate about:** Distributed Execution, Developer Experience (DevEx), and High-Performance Backend Services
+- 📧 **Reach me at:** [srajansohani999@gmail.com](mailto:srajansohani999@gmail.com)
 
 ---
 
-## 🧠 Projects
+## 💼 Experience
+
+### 🏦 Deutsche Bank — Graduate Engineer (2025 – Present)
+- Contributing to the Data Management Platform to track enterprise data feeds globally.
+- Designing and implementing Data Quality (DQ) validation workflows for regulatory and compliance-critical datasets.
+- Building robust Angular components for monitoring data health, feed integrity, and quality metrics.
+
+### 🏢 HyperFlex — SDE Intern (2025)
+- Engineered the **Elastic Seamless Upgrade Tool**, an end-to-end orchestrator using Ansible and Spring Boot for node-by-node zero-downtime cluster upgrades.
+- Developed a **Splunk to Elasticsearch Migration Tool** aiding clients in capacity planning and alert translation.
+
+### 🏦 Deutsche Bank — TDI Intern, Risk Division (2024)
+- Integrated real-time system notifications into the Global Credit Risk System (GCRS) utilizing **WebSockets** and **Kafka**.
+- Modeled notifications via a GraphQL-based Nova workflow system, slashing alert latency from ~10s to <1s.
+
+### 🖥️ Consultadd — Software Engineering Intern (2023)
+- Migrated legacy class-based architectures to functional React components, drastically improving maintainability.
+- Implemented Firebase-powered real-time notifications and optimized API consumption with advanced debouncing and caching strategies.
+
+---
+
+## 🚀 Featured Projects
+
+### 🌩️ Online Coding Platform (OCP)
+> Scalable code execution engine utilizing **Docker**, **RabbitMQ**, and **Redis** for isolated, async processing with sub-second polling latency.
+
+### 🤖 Actionly
+> AI-powered Chrome Extension leveraging **Gemini 2.0** to intelligently triage emails and instantly extract actionable tasks to Notion/Trello.
+
+### 🧠 Adversarial Autoencoder (AAE)
+> Deep learning architecture mapping the internal mechanics of generalized adversarial networks for complex latent space regularization. Built with **PyTorch**.
 
 ### 📝 Blog-The-Change
-> GitHub Action that auto-generates commit-based blog summaries using Gemini LLM and posts to Hashnode  
-**Stack**: Octokit, Gemini API, Hashnode API
+> Intelligent GitHub Action that translates raw Git diffs into context-aware technical blog posts and publishes them to Hashnode using the **Gemini API**.
 
-### 🔄 Elastic Upgradation Tool (HyperFlex)
-> End-to-end orchestrator for upgrading Elasticsearch clusters with rollback, live status, and prechecks  
-**Stack**: Node.js (TypeScript), MongoDB, React, Ansible, Docker
-
-### 🔁 Splunk to Elasticsearch Migration Tool (HyperFlex)
-> Helps clients evaluate and migrate from Splunk to Elastic by analyzing indexes and alerts  
-**Stack**: Spring Boot, TypeScript Microservices
+### 🔄 Elastic Seamless Upgrade Tool
+> Stateful orchestrator for zero-downtime Elasticsearch migrations featuring automated prechecks, rollback mechanisms, and real-time WebSocket telemetry.
 
 ---
 
 ## 🛠 Tech Stack
 
-**Languages**: Java, TypeScript, Python, C++, JavaScript  
-**Frontend**: React, Tailwind CSS, shadcn/ui, Angular  
-**Backend**: Spring Boot, Node.js, Express.js, Ansible  
-**Infra**: Kafka, Docker, AWS, Firebase, EC2  
-**Databases**: MongoDB, PostgreSQL, Elasticsearch  
-**Tools**: GitHub Actions, GraphQL, Socket.IO, Redis, CI/CD
+- **Languages:** Java, TypeScript, Go, Python, C++, JavaScript
+- **Backend & Infra:** Spring Boot, Node.js, Express.js, Kafka, RabbitMQ, Docker, AWS, Ansible
+- **Databases:** PostgreSQL, MongoDB, Elasticsearch, Redis
+- **Frontend:** React, Tailwind CSS, Angular, shadcn/ui
+- **Tools:** GitHub Actions, GraphQL, Socket.IO, CI/CD
 
 ---
 
 ## 📈 GitHub Stats
 
-![Srajan's GitHub stats](https://github-readme-stats.vercel.app/api?username=srajansohani&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srajansohani&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=srajansohani&show_icons=true&theme=radical" alt="Srajan's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srajansohani&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
 ---
 
 ## 🏆 Achievements
 
-- 🧮 **INMO Qualifier (2020)** – Among top 30 students in state
-- 💡 Solved **700+ DSA problems** across LeetCode, GFG, Codeforces, and CodeChef
-- ⚔️ LeetCode Rating: **1700+**
-- 🎉 HacktoberFest 2022 Contributor
+- 🧮 **INMO Qualifier (2020)** – Ranked among the top 30 students statewide.
+- 💡 **Algorithmic Problem Solving** – Conquered **700+ DSA problems** across LeetCode, Codeforces, and CodeChef.
+- ⚔️ **LeetCode Peak Rating:** **1700+**
+- 🎉 **Open Source:** HacktoberFest 2022 Contributor.
 
 ---
 
@@ -93,4 +87,4 @@ I’m a Softwate Engineer working at **Deutsche Bank** and I have done my gradua
 
 ---
 
-⭐ Thanks for stopping by! Let's build something great together 🚀
+⭐ *Thanks for stopping by! Let's build something great together* 🚀
