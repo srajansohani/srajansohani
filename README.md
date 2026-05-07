@@ -72,7 +72,7 @@ I’m a Software Engineer at **Deutsche Bank** and a Computer Science graduate f
 
 - 🧮 **INMO Qualifier (2020)** – Ranked among the top 30 students statewide.
 - 💡 **Algorithmic Problem Solving** – Conquered **700+ DSA problems** across LeetCode, Codeforces, and CodeChef.
-- ⚔️ **LeetCode Peak Rating:** **1700+**
+- ⚔️ **LeetCode Peak Rating:** **1851+**
 - 🎉 **Open Source:** HacktoberFest 2022 Contributor.
 
 ---
